@@ -1,7 +1,0 @@
-x = 1.56
-y = 1.56
-z = -35.34
-
-print(type(a))
-print(type(b))
-print(type(c))
