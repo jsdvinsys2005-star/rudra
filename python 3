@@ -1,7 +1,0 @@
-x = 3+5o
-y = 5p
-z = -5g
-
-print(type(g))
-print(type(h))
-print(type(d))
